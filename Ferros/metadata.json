@@ -1,0 +1,9 @@
+{
+    "id":"GaussFerros",
+    "name":"Ferros",
+    "author": ["GaussDavoid"],
+    "description": "I just wanted more steel synergy cards in balatro",
+    "prefix":"wThIts",
+    "main_file":"main.lua",
+    "version":"0.0.1"
+}   
